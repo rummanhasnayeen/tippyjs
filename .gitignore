@@ -7,3 +7,5 @@ node_modules
 /umd
 /esm
 /themes
+.idea
+*.iml
